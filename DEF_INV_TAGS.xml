@@ -184,16 +184,16 @@ hidetag		- set false to force showing tag with icon (i.e. for armor L R pieces)
 	<tag icon='b_a_legs' keyword='6i Leg Addon' hidetag='true'/>
 <!--
 	<tag icon='b_a_shield' keyword='6j Offhand' hidetag='true'/>
--->
 	<tag icon='b_a_dog' keyword='7a Dog' hidetag='true'/>
 	<tag icon='b_dress' keyword='8a Kids Dress' hidetag='true'/>
 	<tag icon='b_a_casual' keyword='8b Kids Casual' hidetag='true'/>
-	<!-- <tag icon='b_ac_ruggard' keyword='8c Kids Rugged' hidetag='true'/> -->
+	<tag icon='b_ac_ruggard' keyword='8c Kids Rugged' hidetag='true'/>
 	<tag icon='b_vault-tec' keyword='8d Kids Vault-Tec' hidetag='true'/>
 	<tag icon='b_ac_bos' keyword='8e Kids BoS' hidetag='true'/>
 	<tag icon='b_ac_institute' keyword='8f Kids Institute' hidetag='true'/>
 	<tag icon='b_ac_military' keyword='8g Kids Military' hidetag='true'/>
 	<tag icon='b_a_cap' keyword='8h Kids Cap' hidetag='true'/>
+-->
 <!-- Explosives -->
 	<tag icon='w_explosives_1' keyword='Explosives' hidetag='true'/>
 	<tag icon='w_grenade' keyword='Grenade' hidetag='true'/>
