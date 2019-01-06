@@ -50,7 +50,7 @@ hidetag		- set false to force showing tag with icon (i.e. for armor L R pieces)
 	<tag icon='b_ac_metal' keyword='1j Metal' hidetag='true'/>
 	<tag icon='b_ac_marine' keyword='1b Marine' hidetag='true'/>
 	<tag icon='b_ac_robot_2' keyword='1i Robot' hidetag='true'/>
-	<tag icon='b_abc_therm_optics' keyword='1a Therm Optics' hidetag='true'/>
+	<!-- <tag icon='b_abc_therm_optics' keyword='1a Therm Optics' hidetag='true'/> -->
 	<tag icon='b_ac_trapper' keyword='1p Trapper' hidetag='true'/>
 <!--
 	<tag icon='b_nanotech' keyword='1f Nano' hidetag='true'/>
@@ -128,7 +128,7 @@ hidetag		- set false to force showing tag with icon (i.e. for armor L R pieces)
 	<tag icon='b_ac_disciples' keyword='1v Disciples' hidetag='true'/>
 	<tag icon='b_ac_operator' keyword='1w Operators' hidetag='true'/>
 	<tag icon='b_ac_pack' keyword='1x Pack' hidetag='true'/>
-	<!-- <tag icon='b_ac_anarchy' keyword='1y Raider' hidetag='true'/> -->
+	<tag icon='b_ac_anarchy' keyword='1y Raider' hidetag='true'/>
 	<tag icon='b_ac_CoA' keyword='1z CoA' hidetag='true'/>
 	<tag icon='b_fullhelm' keyword='2a Masked Helmet' hidetag='true'/>
 	<tag icon='b_armor_helm' keyword='2b Helmet' hidetag='true'/>
@@ -137,7 +137,7 @@ hidetag		- set false to force showing tag with icon (i.e. for armor L R pieces)
 	<!-- <tag icon='b_a_bandanna' keyword='2e Headband' hidetag='true'/> -->
 	<tag icon='b_a_gasmask' keyword='2f Full-Mask' hidetag='true'/>
 	<tag icon='b_a_glasses' keyword='2g Eyewear' hidetag='true'/>
-	<tag icon='b_a_mouth' keyword='2h Mouth' hidetag='true'/>
+	<!-- <tag icon='b_a_mouth' keyword='2h Mouth' hidetag='true'/> -->
 	<tag icon='b_mask' keyword='2i Half-Mask' hidetag='true'/>
 	<tag icon='b_neckwrap' keyword='2j Bandana' hidetag='true'/>
 	<tag icon='b_a_scarf' keyword='2k Scarf' hidetag='true'/>
@@ -287,7 +287,7 @@ hidetag		- set false to force showing tag with icon (i.e. for armor L R pieces)
 	<tag icon='w_laser_rifle' keyword='1k LR' hidetag='true'/>
 	<tag icon='w_laser_pistol' keyword='1l LP' hidetag='true'/>
 	<tag icon='w_musket' keyword='1m LM' hidetag='true'/>
-	<tag icon='w_gamma' keyword='1n Annie Boom' hidetag='true'/>
+	<!-- <tag icon='w_gamma' keyword='1n Annie Boom' hidetag='true'/> -->
 	<tag icon='w_gamma' keyword='1o Gamma' hidetag='true'/>
 	<!-- <tag icon='w_laser_rifle' keyword='1p Breeder' hidetag='true'/> -->
 	<tag icon='w_savaged_assaultron_head' keyword='1q Assaultron Head' hidetag='true'/>
