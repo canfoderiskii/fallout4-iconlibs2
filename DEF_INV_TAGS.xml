@@ -33,11 +33,11 @@ hidetag		- set false to force showing tag with icon (i.e. for armor L R pieces)
 	<tag icon='b_comic' keyword='Magazine' hidetag='true'/>
 	<tag icon='b_cigarette' keyword='Cigarette' hidetag='true'/>
 	<tag icon='b_cigarette' keyword='Cigar' hidetag='true'/>
-	<tag icon='b_canteen' keyword='Canteen' hidetag='true'/>
+	<!-- <tag icon='b_canteen' keyword='Canteen' hidetag='true'/> -->
 <!-- Ammo -->
 	<tag icon='b_ammo' keyword='Ammo' hidetag='true'/>
 	<tag icon='b_ammo_flamer' keyword='Fuel' hidetag='true'/>
-	<tag icon='b_ammo_crossbowbolt' keyword='Bolt' hidetag='true'/>
+<!--<tag icon='b_ammo_crossbowbolt' keyword='Bolt' hidetag='true'/>-->
 	<tag icon='b_ammo_core' keyword='Fusion' hidetag='true'/>
 	<tag icon='b_ammo_fusion_cell' keyword='mFusion' hidetag='true'/>
 	<tag icon='b_ammo_syringer' keyword='Syringe' hidetag='true'/>
@@ -57,12 +57,12 @@ hidetag		- set false to force showing tag with icon (i.e. for armor L R pieces)
 -->	
 	<tag icon='b_ac_merc' keyword='1c Merc' hidetag='true'/>
 	<tag icon='b_ac_gunners' keyword='1d Gunners' hidetag='true'/>
-	<tag icon='b_ac_scav' keyword='1o Scavvers' hidetag='true'/>
+	<!-- <tag icon='b_ac_scav' keyword='1o Scavvers' hidetag='true'/> -->
 	<tag icon='b_ac_military' keyword='1g Battle' hidetag='true'/>
 	<tag icon='b_ac_disciples' keyword='1k Disciples' hidetag='true'/>
 	<tag icon='b_ac_operator' keyword='1l Operators' hidetag='true'/>
 	<tag icon='b_ac_pack' keyword='1m Pack' hidetag='true'/>
-	<tag icon='b_ac_anarchy' keyword='1n Raider' hidetag='true'/>
+	<!-- <tag icon='b_ac_anarchy' keyword='1n Raider' hidetag='true'/> -->
 	<tag icon='b_vault-tec' keyword='1s Vault-Tec' hidetag='true'/>
 	<tag icon='b_armor_smut' keyword='3a Super Mutant' hidetag='true'/>
 <!-- Power Armor by Class -->
@@ -82,11 +82,9 @@ hidetag		- set false to force showing tag with icon (i.e. for armor L R pieces)
 	<tag icon='b_pa_raider' keyword='2j Raider' hidetag='true'/>
 <!--
 	<tag icon='b_pa_combat' keyword='2k Combat PA' hidetag='true'/>	
--->
 	<tag icon='b_pa_construction' keyword='2l Construction' hidetag='true'/>
 	<tag icon='b_pa_horse' keyword='2m Horse Power' hidetag='true'/>
 	<tag icon='b_pa_CCPA' keyword='2ma Cpt. Cosmos' hidetag='true'/>
-<!--
 	<tag icon='b_pa_institute' keyword='2n Institute PA' hidetag='true'/>
 	<tag icon='b_pa_ironman' keyword='2o Ironman' hidetag='true'/>	
 	<tag icon='b_pa_knight' keyword='2p Knight' hidetag='true'/>	
@@ -122,21 +120,21 @@ hidetag		- set false to force showing tag with icon (i.e. for armor L R pieces)
 	<tag icon='b_diamond_city' keyword='1p DC' hidetag='true'/>
 	<tag icon='b_ac_military' keyword='1q Military' hidetag='true'/>
 	<tag icon='b_ac_marine' keyword='1r Marine' hidetag='true'/>
-	<tag icon='b_ac_ncr_ranger2' keyword='1s NCR' hidetag='true'/>
+	<!-- <tag icon='b_ac_ncr_ranger2' keyword='1s NCR' hidetag='true'/> -->
 	<tag icon='b_ac_merc' keyword='1t Merc' hidetag='true'/>
 	<tag icon='b_ac_gunners' keyword='1ta Gunner' hidetag='true'/>
-	<tag icon='b_ac_scav' keyword='1tb Scavvers' hidetag='true'/>
+	<!-- <tag icon='b_ac_scav' keyword='1tb Scavvers' hidetag='true'/> -->
 	<tag icon='b_ac_forged' keyword='1u Forged' hidetag='true'/>
 	<tag icon='b_ac_disciples' keyword='1v Disciples' hidetag='true'/>
 	<tag icon='b_ac_operator' keyword='1w Operators' hidetag='true'/>
 	<tag icon='b_ac_pack' keyword='1x Pack' hidetag='true'/>
-	<tag icon='b_ac_anarchy' keyword='1y Raider' hidetag='true'/>
+	<!-- <tag icon='b_ac_anarchy' keyword='1y Raider' hidetag='true'/> -->
 	<tag icon='b_ac_CoA' keyword='1z CoA' hidetag='true'/>
 	<tag icon='b_fullhelm' keyword='2a Masked Helmet' hidetag='true'/>
 	<tag icon='b_armor_helm' keyword='2b Helmet' hidetag='true'/>
 	<tag icon='b_a_hat' keyword='2c Hat' hidetag='true'/>
 	<tag icon='b_a_cap' keyword='2d Cap' hidetag='true'/>
-	<tag icon='b_a_bandanna' keyword='2e Headband' hidetag='true'/>
+	<!-- <tag icon='b_a_bandanna' keyword='2e Headband' hidetag='true'/> -->
 	<tag icon='b_a_gasmask' keyword='2f Full-Mask' hidetag='true'/>
 	<tag icon='b_a_glasses' keyword='2g Eyewear' hidetag='true'/>
 	<tag icon='b_a_mouth' keyword='2h Mouth' hidetag='true'/>
@@ -145,28 +143,32 @@ hidetag		- set false to force showing tag with icon (i.e. for armor L R pieces)
 	<tag icon='b_a_scarf' keyword='2k Scarf' hidetag='true'/>
 	<tag icon='b_neckwrap' keyword='2l Bandana' hidetag='true'/>
 	<tag icon='b_a_gloves' keyword='2m Gloves' hidetag='true'/>
+<!-- 
 	<tag icon='b_backpack' keyword='3a Backpack' hidetag='true'/>
 	<tag icon='b_jetpack' keyword='3b Jetpack' hidetag='true'/>
 	<tag icon='b_backpack_upper' keyword='3c Backpack Upper' hidetag='true'/>
 	<tag icon='b_backpack_lower' keyword='3d Backpack Lower' hidetag='true'/>
 	<tag icon='b_satchel' keyword='3e Satchel' hidetag='true'/>
 	<tag icon='b_a_bandolier' keyword='3f Bandolier' hidetag='true'/>
+-->
 	<tag icon='b_a_harness' keyword='3g Harness' hidetag='true'/>
 	<tag icon='b_armor_balistic' keyword='3h Tac-Vest' hidetag='true'/>
+<!-- 
 	<tag icon='b_a_belt' keyword='3i Belt' hidetag='true'/>
 	<tag icon='b_a_holster' keyword='4a Gun On Hip' hidetag='true'/>
 	<tag icon='w_katana_2' keyword='4b Melee On Hip' hidetag='true'/>
 	<tag icon='w_rifle' keyword='4c Gun On Back' hidetag='true'/>
 	<tag icon='w_super_sledge' keyword='4d Melee On Back' hidetag='true'/>
+-->
 	<tag icon='b_a_necklace' keyword='5a Necklace' hidetag='true'/>
 	<tag icon='b_a_bracelet' keyword='5b Bracelet' hidetag='true'/>
-	<tag icon='b_a_watch' keyword='5c Watch' hidetag='true'/>
+	<!-- <tag icon='b_a_watch' keyword='5c Watch' hidetag='true'/> -->
 	<tag icon='b_a_ring' keyword='5d Ring' hidetag='true'/>
 	<tag icon='b_a_earring' keyword='5e Earring' hidetag='true'/>
 <!--
 	<tag icon='b_a_dumbbells' keyword='5f Piercing' hidetag='true'/>
 -->
-	<tag icon='b_a_fingernail' keyword='5g Fingernails' hidetag='true'/>
+	<!-- <tag icon='b_a_fingernail' keyword='5g Fingernails' hidetag='true'/> -->
 <!--
 	<tag icon='b_polo_shirt' keyword='6a Top' hidetag='true'/>
 	<tag icon='b_a_pants' keyword='6b Bottom' hidetag='true'/>
@@ -186,7 +188,7 @@ hidetag		- set false to force showing tag with icon (i.e. for armor L R pieces)
 	<tag icon='b_a_dog' keyword='7a Dog' hidetag='true'/>
 	<tag icon='b_dress' keyword='8a Kids Dress' hidetag='true'/>
 	<tag icon='b_a_casual' keyword='8b Kids Casual' hidetag='true'/>
-	<tag icon='b_ac_ruggard' keyword='8c Kids Rugged' hidetag='true'/>
+	<!-- <tag icon='b_ac_ruggard' keyword='8c Kids Rugged' hidetag='true'/> -->
 	<tag icon='b_vault-tec' keyword='8d Kids Vault-Tec' hidetag='true'/>
 	<tag icon='b_ac_bos' keyword='8e Kids BoS' hidetag='true'/>
 	<tag icon='b_ac_institute' keyword='8f Kids Institute' hidetag='true'/>
@@ -222,8 +224,8 @@ hidetag		- set false to force showing tag with icon (i.e. for armor L R pieces)
 	<tag icon='b_bobblehead' keyword='Collectibles' hidetag='true'/>
 	<tag icon='b_toy_horse' keyword='Collectible' hidetag='true'/>
 	<tag icon='b_tool' keyword='Crafting' hidetag='true'/>
-	<tag icon='b_tool' keyword='CC Kits' hidetag='true'/>
-	<tag icon='b_tool' keyword='CC Sets' hidetag='true'/>
+	<!-- <tag icon='b_tool' keyword='CC Kits' hidetag='true'/> -->
+	<!-- <tag icon='b_tool' keyword='CC Sets' hidetag='true'/> -->
 	<tag icon='b_game' keyword='Game' hidetag='true'/>
 	<tag icon='b_hack2' keyword='Hack' hidetag='true'/>
 	<tag icon='b_holotape' keyword='Holotape' hidetag='true'/>
@@ -234,7 +236,7 @@ hidetag		- set false to force showing tag with icon (i.e. for armor L R pieces)
 	<tag icon='b_keys' keyword='Key' hidetag='true'/>
 	<tag icon='b_password' keyword='Password' hidetag='true'/>
 	<tag icon='b_keycard' keyword='Passcard' hidetag='true'/>
-	<tag icon='b_camping_tent' keyword='Camping' hidetag='true'/>
+	<!-- <tag icon='b_camping_tent' keyword='Camping' hidetag='true'/> -->
 	<tag icon='b_la_pipboy' keyword='Pipboy' hidetag='true'/>
 	<tag icon='b_alc_leaf' keyword='Wraps' hidetag='true'/>
 	<tag icon='b_tool' keyword='Tool' hidetag='true'/>
@@ -243,10 +245,10 @@ hidetag		- set false to force showing tag with icon (i.e. for armor L R pieces)
 	<tag icon='b_diamond_city' keyword='Baseball Card' hidetag='true'/>
 	<tag icon='b_ac_merc' keyword='Marvel Card' hidetag='true'/>	
 	<tag icon='b_coffeemug' keyword='Coffee Cup' hidetag='true'/>		
-	<tag icon='b_gnome' keyword='Gnome' hidetag='true'/>
+	<!-- <tag icon='b_gnome' keyword='Gnome' hidetag='true'/> -->
 	<tag icon='b_ac_robot_2' keyword='Model Robot' hidetag='true'/>	
-	<tag icon='b_pa_CCPA' keyword='Cpt. Cosmos' hidetag='true'/>
-	<tag icon='b_ac_military' keyword='GI Joe' hidetag='true'/>	
+	<!-- <tag icon='b_pa_CCPA' keyword='Cpt. Cosmos' hidetag='true'/> -->
+	<!-- <tag icon='b_ac_military' keyword='GI Joe' hidetag='true'/>	 -->
 <!-- Mods -->
 	<tag icon='b_mods' keyword='Mod' hidetag='true'/>
 <!-- Perks -->
@@ -263,12 +265,12 @@ hidetag		- set false to force showing tag with icon (i.e. for armor L R pieces)
 <!-- Weapons -->
 	<tag icon='w_fat_man' keyword='0a Mini Nuke' hidetag='true'/>
 	<tag icon='w_rocket_launcher' keyword='0b Missile' hidetag='true'/>
-	<tag icon='w_rocket_launcher' keyword='0c RocketsMini' hidetag='true'/>
+	<!-- <tag icon='w_rocket_launcher' keyword='0c RocketsMini' hidetag='true'/> -->
 	<tag icon='w_rocket_launcher' keyword='0c RocketsCluster' hidetag='true'/>
-	<tag icon='w_rocket_launcher' keyword='0c Fireworks' hidetag='true'/>
+	<!-- <tag icon='w_rocket_launcher' keyword='0c Fireworks' hidetag='true'/> -->
 	<tag icon='w_rocket_launcher' keyword='0c RocketsLrg' hidetag='true'/>
-	<tag icon='w_rocket_launcher' keyword='0c Kids Rocket' hidetag='true'/>
-	<tag icon='w_M79_Thumper' keyword='0d 40mm Grenade' hidetag='true'/>
+	<!-- <tag icon='w_rocket_launcher' keyword='0c Kids Rocket' hidetag='true'/> -->
+	<!-- <tag icon='w_M79_Thumper' keyword='0d 40mm Grenade' hidetag='true'/> -->
 	<tag icon='w_broadsider' keyword='0e Cannonball' hidetag='true'/>
 	<tag icon='w_gauss_rifle' keyword='1a 2mm EC' hidetag='true'/>
 	<tag icon='w_alien' keyword='1b Alien' hidetag='true'/>
@@ -287,10 +289,10 @@ hidetag		- set false to force showing tag with icon (i.e. for armor L R pieces)
 	<tag icon='w_musket' keyword='1m LM' hidetag='true'/>
 	<tag icon='w_gamma' keyword='1n Annie Boom' hidetag='true'/>
 	<tag icon='w_gamma' keyword='1o Gamma' hidetag='true'/>
-	<tag icon='w_laser_rifle' keyword='1p Breeder' hidetag='true'/>
+	<!-- <tag icon='w_laser_rifle' keyword='1p Breeder' hidetag='true'/> -->
 	<tag icon='w_savaged_assaultron_head' keyword='1q Assaultron Head' hidetag='true'/>
-	<tag icon='w_minigun' keyword='2a HMG' hidetag='true'/>
-	<tag icon='w_ar556' keyword='2b LMG' hidetag='true'/>
+	<!-- <tag icon='w_minigun' keyword='2a HMG' hidetag='true'/> -->
+	<!-- <tag icon='w_ar556' keyword='2b LMG' hidetag='true'/> -->
 	<tag icon='w_battle_rifle' keyword='2c BR' hidetag='true'/>
 	<tag icon='w_ak' keyword='2d AR' hidetag='true'/>
 	<tag icon='w_handmade_l' keyword='2da HAR' hidetag='true'/>
@@ -303,11 +305,11 @@ hidetag		- set false to force showing tag with icon (i.e. for armor L R pieces)
 	<tag icon='w_sub_machine_gun' keyword='2k SMG' hidetag='true'/>
 	<tag icon='w_submachine_gun' keyword='2ka CSMG' hidetag='true'/>
 	<tag icon='w_crude_blowback' keyword='2kb HSMG' hidetag='true'/>
-	<tag icon='w_rhino' keyword='2la HR' hidetag='true'/>
+	<!-- <tag icon='w_rhino' keyword='2la HR' hidetag='true'/> -->
 	<tag icon='w_revo' keyword='2lb REV' hidetag='true'/>
 	<tag icon='w_10mm' keyword='2m HP' hidetag='true'/>
 	<tag icon='w_pistol' keyword='2n SAP' hidetag='true'/>
-	<tag icon='w_walther_ppk' keyword='2o LSAP' hidetag='true'/>
+	<!-- <tag icon='w_walther_ppk' keyword='2o LSAP' hidetag='true'/> -->
 	<tag icon='w_pipe_revolver' keyword='2p HMP' hidetag='true'/>
 	<tag icon='w_harpoon_gun' keyword='3a Harpoon' hidetag='true'/>
 	<tag icon='w_railway_rifle' keyword='3b Spike' hidetag='true'/>
@@ -320,11 +322,11 @@ hidetag		- set false to force showing tag with icon (i.e. for armor L R pieces)
 	<tag icon='w_flare_gun' keyword='3i Flare' hidetag='true'/>
 	<tag icon='w_acid_soker' keyword='3j Acid' hidetag='true'/>
 	<tag icon='w_thirst_zapper' keyword='3k Zapper' hidetag='true'/>
-	<tag icon='w_syringer' keyword='3l Paintball' hidetag='true'/>
+	<!-- <tag icon='w_syringer' keyword='3l Paintball' hidetag='true'/> -->
 	<tag icon='w_super_sledge' keyword='4aa Super Sledge' hidetag='true'/>
 	<tag icon='w_sledgehammer' keyword='4ab Sledgehammer' hidetag='true'/>
-	<tag icon='w_chainsaw' keyword='4ba Chainsaw' hidetag='true'/>
-	<tag icon='w_buzz_axe' keyword='4bb Buzz Axe' hidetag='true'/>
+	<!-- <tag icon='w_chainsaw' keyword='4ba Chainsaw' hidetag='true'/> -->
+	<!-- <tag icon='w_buzz_axe' keyword='4bb Buzz Axe' hidetag='true'/> -->
 	<tag icon='w_mr_handy_buzz_blade' keyword='4bc Buzz Blade' hidetag='true'/>
 	<tag icon='w_ripper' keyword='4bd Ripper' hidetag='true'/>
 	<tag icon='w_shishkebab' keyword='4c Fire' hidetag='true'/>
@@ -344,14 +346,14 @@ hidetag		- set false to force showing tag with icon (i.e. for armor L R pieces)
 	<tag icon='w_tire_iron' keyword='4fh Tire Iron' hidetag='true'/>
 	<tag icon='w_rolling_pin' keyword='4fi Rolling Pin' hidetag='true'/>
 	<tag icon='w_walking_cane' keyword='4fj Walking Cane' hidetag='true'/>
-	<tag icon='w_lead_pipe' keyword='4fk Club' hidetag='true'/>
-	<tag icon='w_hatchet' keyword='4ga Hachet' hidetag='true'/>
-	<tag icon='w_tomahawk' keyword='4gb Tomahawk' hidetag='true'/>
+	<!-- <tag icon='w_lead_pipe' keyword='4fk Club' hidetag='true'/> -->
+	<!-- <tag icon='w_hatchet' keyword='4ga Hachet' hidetag='true'/> -->
+	<!-- <tag icon='w_tomahawk' keyword='4gb Tomahawk' hidetag='true'/> -->
 	<tag icon='w_machete_2' keyword='4h Machete' hidetag='true'/>
 	<tag icon='w_combat_knife' keyword='4i Knife' hidetag='true'/>
-	<tag icon='w_trench_knife' keyword='4ia Trench Knife' hidetag='true'/>
+	<!-- <tag icon='w_trench_knife' keyword='4ia Trench Knife' hidetag='true'/> -->
 	<tag icon='w_switchblade' keyword='4ib Switchblade' hidetag='true'/>
-	<tag icon='w_karambit' keyword='4ic Karambit' hidetag='true'/>
+	<!-- <tag icon='w_karambit' keyword='4ic Karambit' hidetag='true'/> -->
 	<tag icon='w_boxing_glove' keyword='4j Fist' hidetag='true'/>
 	<tag icon='w_power_fist' keyword='4ja Power Fist' hidetag='true'/>
 	<tag icon='w_deathclaw_gauntlet' keyword='4jb Deathclaw Gauntlet' hidetag='true'/>
@@ -363,7 +365,7 @@ hidetag		- set false to force showing tag with icon (i.e. for armor L R pieces)
 	<tag icon='w_boxing_glove' keyword='4jf Boxing Gloves' hidetag='true'/>
 	<tag icon='w_katana_2' keyword='4jz Melee' hidetag='true'/>
 	<tag icon='w_paddle_ball' keyword='4k String' hidetag='true'/>
-	<tag icon='w_flamer' keyword='1h 1 Fahrenheit_Flamer' hidetag='true'/>
+	<!-- <tag icon='w_flamer' keyword='1h 1 Fahrenheit_Flamer' hidetag='true'/> -->
 	<tag icon='w_institute_rifle' keyword='1i 1 Virgils_Rifle' hidetag='true'/>	
 	<tag icon='w_laser_pistol' keyword='1l 1 Survivors_Special' hidetag='true'/>	
 	<tag icon='w_rifle' keyword='2e 1 Reba' hidetag='true'/>		
@@ -378,7 +380,7 @@ hidetag		- set false to force showing tag with icon (i.e. for armor L R pieces)
 	<tag icon='w_rocket_launcher' keyword='0b 1 PartyStarter' hidetag='true'/>	
 	<tag icon='w_10mm' keyword='2m 1 Wastelanders_Friend' hidetag='true'/>	
 	<tag icon='w_battle_rifle' keyword='2c 1 Overseers_Guardian' hidetag='true'/>	
-	<tag icon='w_plasma_rifle' keyword='1c 1 AX90_fury' hidetag='true'/>	
+	<!-- <tag icon='w_plasma_rifle' keyword='1c 1 AX90_fury' hidetag='true'/>	 -->
 	<tag icon='w_plasma_rifle' keyword='1c 1 Experiment_18A' hidetag='true'/>	
 	<tag icon='w_fat_man' keyword='0a 1 Big_Boy' hidetag='true'/>	
 	<tag icon='w_laser_rifle' keyword='1k 1 Good_Intentions' hidetag='true'/>	
@@ -424,7 +426,7 @@ hidetag		- set false to force showing tag with icon (i.e. for armor L R pieces)
 	<tag icon='w_baseball_bat' keyword='4f 1 Citos_Shiny_Slugger' hidetag='true'/>
 	<tag icon='w_gatlin_laser' keyword='1e 1 Aeternus' hidetag='true'/>	
 	<tag icon='w_alien' keyword='1b 1 Hubs_Alien_Blaster' hidetag='true'/>
-	<tag icon='w_thirst_zapper' keyword='3k 1 Rexs_Prototype' hidetag='true'/>
+	<!-- <tag icon='w_thirst_zapper' keyword='3k 1 Rexs_Prototype' hidetag='true'/> -->
 	<tag icon='w_submachine_gun' keyword='2ka 1 Silver_Submachinegun' hidetag='true'/>
 	<tag icon='w_power_fist' keyword='4ja 1 Swans_Power_Fist' hidetag='true'/>
 <!-- Other Mods -->
