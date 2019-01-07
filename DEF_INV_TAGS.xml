@@ -148,9 +148,9 @@ hidetag		- set false to force showing tag with icon (i.e. for armor L R pieces)
 	<tag icon='b_jetpack' keyword='3b Jetpack' hidetag='true'/>
 	<tag icon='b_backpack_upper' keyword='3c Backpack Upper' hidetag='true'/>
 	<tag icon='b_backpack_lower' keyword='3d Backpack Lower' hidetag='true'/>
-	<tag icon='b_satchel' keyword='3e Satchel' hidetag='true'/>
-	<tag icon='b_a_bandolier' keyword='3f Bandolier' hidetag='true'/>
 -->
+	<tag icon='b_satchel' keyword='3e Satchel' hidetag='true'/>
+	<!-- <tag icon='b_a_bandolier' keyword='3f Bandolier' hidetag='true'/> -->
 	<tag icon='b_a_harness' keyword='3g Harness' hidetag='true'/>
 	<tag icon='b_armor_balistic' keyword='3h Tac-Vest' hidetag='true'/>
 <!-- 
@@ -294,7 +294,7 @@ hidetag		- set false to force showing tag with icon (i.e. for armor L R pieces)
 	<!-- <tag icon='w_laser_rifle' keyword='1p Breeder' hidetag='true'/> -->
 	<tag icon='w_savaged_assaultron_head' keyword='1q Assaultron Head' hidetag='true'/>
 	<tag icon='w_minigun' keyword='2a HMG' hidetag='true'/>
-	<!-- <tag icon='w_ar556' keyword='2b LMG' hidetag='true'/> -->
+	<tag icon='w_ar556' keyword='2b LMG' hidetag='true'/>
 	<tag icon='w_battle_rifle' keyword='2c BR' hidetag='true'/>
 	<tag icon='w_ak' keyword='2d AR' hidetag='true'/>
 	<tag icon='w_handmade_l' keyword='2da HAR' hidetag='true'/>
