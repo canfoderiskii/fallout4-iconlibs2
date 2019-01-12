@@ -134,7 +134,7 @@ hidetag		- set false to force showing tag with icon (i.e. for armor L R pieces)
 	<tag icon='b_armor_helm' keyword='2b Helmet' hidetag='true'/>
 	<tag icon='b_a_hat' keyword='2c Hat' hidetag='true'/>
 	<tag icon='b_a_cap' keyword='2d Cap' hidetag='true'/>
-	<!-- <tag icon='b_a_bandanna' keyword='2e Headband' hidetag='true'/> -->
+	<tag icon='b_a_bandanna' keyword='2e Headband' hidetag='true'/>
 	<tag icon='b_a_gasmask' keyword='2f Full-Mask' hidetag='true'/>
 	<tag icon='b_a_glasses' keyword='2g Eyewear' hidetag='true'/>
 	<!-- <tag icon='b_a_mouth' keyword='2h Mouth' hidetag='true'/> -->
